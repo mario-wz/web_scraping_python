@@ -1,1 +1,1 @@
-# web_scraping_python
+A basic web scraping project that done with python.
