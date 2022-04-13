@@ -1,1 +1,2 @@
-A basic web scraping project that done with python.
+Web scraping projects that done with python.
+Very basic.
