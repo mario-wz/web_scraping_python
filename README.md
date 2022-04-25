@@ -1,2 +1,1 @@
-Web scraping projects that done with python.
-Very basic.
+Web scraping practice repo 
